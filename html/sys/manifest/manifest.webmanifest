@@ -1,0 +1,42 @@
+{
+  "lang": "en",
+  "name": "planet-game",
+  "short_name": "planet-game",
+  "icons": [{
+        "src": "sys/img/icons/apple-touch-icon.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }],
+  "splash_screens": [
+      {
+        "src": "sys/img/splashes/apple-touch-startup-image-320x460.png",
+        "sizes": "320x460"
+      },
+      {
+        "src": "sys/img/splashes/apple-touch-startup-image-640x920.png",
+        "sizes": "640x920"
+      },
+      {
+        "src": "sys/img/splashes/apple-touch-startup-image-748x1024.png",
+        "sizes": "748x1024"
+      },
+      {
+        "src": "sys/img/splashes/apple-touch-startup-image-768x1004.png",
+        "sizes": "768x1004"
+      },
+      {
+        "src": "sys/img/splashes/apple-touch-startup-image-1496x2048.png",
+        "sizes": "1496x2048"
+      },
+      {
+        "src": "sys/img/splashes/apple-touch-startup-image-1536x2008.png",
+        "sizes": "1536x2008"
+      }     
+  ],
+  "scope": "./",
+  "start_url": "../../",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#ffcd00",
+  "background_color": "#fff"
+}
